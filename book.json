@@ -20,7 +20,8 @@
         "-donate",
         "sharing-plus",
         "anchor-navigation-ex",
-        "favicon"
+        "favicon",
+	"fontsettings"
     ],
     "pluginsConfig": {
         "github": {
@@ -70,6 +71,11 @@
                 "120x120": "./source/images/apple-touch-icon.jpg",
                 "180x180": "./source/images/apple-touch-icon.jpg"
             }
-        }
+        },
+	"fontsettings":{
+	    "theme": "night",
+            "family": "sans" ,
+            "size":2        
+	}
     }
 }

@@ -4,7 +4,7 @@
 
 - 版本大于4.0.0
 
-```bash
+```
 # 获取noode.js安装包
 [root@test1 ~]# wget https://nodejs.org/dist/v7.7.1/node-v7.7.1-linux-x64.tar.xz
 
@@ -25,7 +25,7 @@ v7.7.1
 
 ### 二、安装gitbook
 
-```bash
+```
 [root@test1 nodejs]# npm install gitbook-cli -g
 /root/nodejs/bin/gitbook -> /root/nodejs/lib/node_modules/gitbook-cli/bin/gitbook.js
 /root/nodejs/lib
@@ -64,3 +64,4 @@ TypeError: cb.apply is not a function
 CLI version: 2.3.2
 GitBook version: 3.2.3
 ```
+
