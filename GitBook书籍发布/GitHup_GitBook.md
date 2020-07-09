@@ -63,4 +63,7 @@ To https://github.com/meiyifei/sync_githup_to_gitbook.git
 
 可以看到GitBook上已经同步了书籍内容的更改。
 
-![img](http://chuantu.xyz/t6/739/1594289127x2073447963.png) 
+![img](http://chuantu.xyz/t6/739/1594289127x2073447963.png)
+
+同步成功后可以通过下面的链接访问已经编辑好的书籍:
+https://app.gitbook.com/@meiyifei1/s/gitbook/ 
