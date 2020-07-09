@@ -161,5 +161,5 @@ To https://github.com/meiyifei/GitBook.git
 # 此时master分支已经删除
 ```
 
-完成后即可通过https://meiyifei.github.io/GitBook/网址访问编辑好的书籍。# 在GitHup发布
+完成后即可通过(https://meiyifei.github.io/GitBook/)访问编辑好的书籍
 
